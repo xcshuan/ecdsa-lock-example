@@ -1,6 +1,16 @@
 # ecdsa-lock-example
 
-TODO: Write this readme
+build
+
+```
+make build
+```
+
+test
+
+```
+make test CARGO_ARGS="-- --nocapture"
+```
 
 *This project was bootstrapped with [ckb-script-templates].*
 
